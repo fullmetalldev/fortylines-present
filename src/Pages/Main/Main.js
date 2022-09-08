@@ -9,7 +9,6 @@ const Main = () => {
         <div className="Main">
 
             <div className="blur">
-
             </div>
 
             <Slider/>
