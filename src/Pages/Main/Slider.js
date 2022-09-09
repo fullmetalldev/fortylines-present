@@ -37,8 +37,9 @@ const Slider = () => {
             <SwiperSlide>
                 <div className="qrCode">
                     <h2 className="slideTitle">Отсканируйте, чтобы попасть на нашу презентацию :)</h2>
-                    <img src="http://qrcoder.ru/code/?https%3A%2F%2Ffortylines-present.vercel.app%2F&4&0" width="200"
-                         height="200" border="0" title="QR код" alt="QR"/>
+                    <a href="http://qrcoder.ru" target="_blank"><img
+                        src="http://qrcoder.ru/code/?https%3A%2F%2Ffortylines-present.vercel.app%2F&4&0" width="148"
+                        height="148" border="0" title="QR код"></a>
                 </div>
             </SwiperSlide>
             <SwiperSlide>
@@ -309,7 +310,7 @@ const Slider = () => {
                 </div>
             </SwiperSlide>
         </Swiper>
-    );
+);
 };
 
 export default Slider;
