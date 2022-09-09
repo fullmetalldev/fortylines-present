@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import "./style.css";
 import Slider from "./Slider";
 
@@ -7,12 +7,8 @@ const Main = () => {
 
     return (
         <div className="Main">
-
-            <div className="blur">
-            </div>
-
+            <div className="blur"/>
             <Slider/>
-
         </div>
     );
 };
