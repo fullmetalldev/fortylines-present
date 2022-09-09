@@ -104,6 +104,19 @@
     align-items: center;
     justify-content: space-between;
 }
+.slide__row div{
+    width: 100%;
+    position: relative;
+    height: 100%;
+}
+
+.slide__row  .imageCard{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 15px;
+    height: 400px;
+}
 
 .slideImg {
     width: 25%;

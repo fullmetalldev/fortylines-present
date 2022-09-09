@@ -80,7 +80,9 @@ const Slider = () => {
                             <p className="slideDescrSmall width100">2. Основанный на подчинении единому центру.</p>
                             <br/>
                             <p className="slideDescrSmall width100">3. Исходящий из единого центра.</p>
+                            <img className="imageCard" src="https://www.designnews.com/sites/designnews.com/files/Design%20News/02-autonomous_MENTOR.png" alt=""/>
                         </div>
+
                     </div>
                 </div>
             </SwiperSlide>
