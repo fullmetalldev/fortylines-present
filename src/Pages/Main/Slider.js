@@ -82,6 +82,7 @@ const Slider = () => {
                             <br/>
                             <p className="slideDescrSmall width100">3. Исходящий из единого центра.</p>
                         </div>
+
                     </div>
                 </div>
             </SwiperSlide>
@@ -132,6 +133,7 @@ const Slider = () => {
                             <br/>
                             <p style={{padding: "0 0 0 30px"}} className="slideDescrSmall width100">3. НЕ исходящий из
                                 единого центра.</p>
+                            <img className="imageCard" src="https://www.designnews.com/sites/designnews.com/files/Design%20News/02-autonomous_MENTOR.png" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -226,6 +228,7 @@ const Slider = () => {
                                 потому что всю цепочку сделок и актуальный список владельцев хранят на своих компьютерах
                                 множество независимых пользователей. Даже если один или несколько компьютеров дадут
                                 сбой, информация не пропадет.</p>
+                            <img className="imageCard" src="https://yur-gazeta.ru/wp-content/uploads/2020/06/btc-44.jpeg" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -248,6 +251,7 @@ const Slider = () => {
                                 Процедура консенсуса, то есть достижения согласия, позволит восстановить верную
                                 информацию.</p>
                             <p className="slideDescrSmall">Шифрование данных.</p>
+                            <img className="imageCard" src="https://miro.medium.com/max/1200/0*eAP8PXVbAf2vpcwE.png" alt=""/>
                         </div>
                     </div>
                 </div>
